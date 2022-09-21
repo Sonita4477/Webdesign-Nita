@@ -1,0 +1,120 @@
+.nav{
+    width: 1980px;
+    height: 80px;
+    background-color: white;
+    position: absolute;
+}
+.logo{
+    width: 100px;
+    height: 80px;
+    font-size: 30px;
+    color: black;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    font-family: sans-serif;
+}
+.menu{
+    width: 1400px;
+    height: 80px;
+    position: absolute;
+    left: 210px;
+    margin-top: -125px;
+    font-family: sans-serif;
+}
+.nav-list li{
+    display: inline;
+    margin-left: 30px;
+    text-decoration: none;
+}
+.na-items a:hover{
+    color: black;
+    text-decoration: underline red;
+}
+.na-items a{
+    text-decoration: none;
+    color: gray;
+}
+.booking{
+    width: 200px;
+    height: 80px;
+    position: absolute;
+    left: 850px;
+    margin-top: -40px;
+}
+.book-table{
+    width: 120px ;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main{
+    width: 1980px;
+    height: 1000px;
+    background-color: whitesmoke;
+}
+.food{
+    position: absolute;
+    margin-left: 450px;
+    top: 100px;
+}
+.text{
+    width: 500px;
+    height: 50px ;
+} 
+.text-big{ 
+    color: black;
+    position: absolute;
+    border: none;
+    top: 200px;
+    margin-left: 30px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.text-small{
+    color: black;
+    position: absolute;
+    border: none;
+    top: 340px;
+    margin-left: 30px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.book-table2{
+    width: 130px ;
+    height: 33px;
+    border-radius: 20px;
+    border: none;
+    background-color:rgb(171, 32, 32);
+    color: white;
+    cursor: pointer;
+    margin-top: 360px;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.watch-video{
+    width: 120px ;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: whitesmoke;
+    color: black;
+    cursor: pointer;
+    margin-top: 360px;
+    margin-left: 25px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#video-logo{
+    color: red;
+    font-size: 25px;
+    position: absolute;
+    top: 411px;
+    padding: 10px;
+    left: 180px;
+}
